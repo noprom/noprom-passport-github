@@ -1,5 +1,5 @@
 {
-  "name": "passport-github",
+  "name": "noprom-passport-github",
   "version": "1.1.0",
   "description": "GitHub authentication strategy for Passport.",
   "keywords": [
@@ -17,10 +17,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/jaredhanson/passport-github.git"
+    "url": "https://github.com/noprom/noprom-passport-github.git"
   },
   "bugs": {
-    "url": "http://github.com/jaredhanson/passport-github/issues"
+    "url": "https://github.com/noprom/noprom-passport-github/issues"
   },
   "license": "MIT",
   "licenses": [
@@ -31,7 +31,7 @@
   ],
   "main": "./lib",
   "dependencies": {
-    "passport-oauth2": "1.x.x"
+    "noprom-passport-oauth2": "1.4.2"
   },
   "devDependencies": {
     "make-node": "0.3.x",
